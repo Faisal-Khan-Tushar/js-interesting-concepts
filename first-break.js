@@ -24,8 +24,8 @@ let b = a;
 // console.log(a, b)
 a = 20;
 // console.log(a, b)
-let x = { job: 'Teacher of Daffodil International University' }
-let y = x;
+let first = { job: 'Teacher of Daffodil International University' }
+let y = first;
 // console.log(x, y)
 // x.job = "Math's teacher in Daffodil International University"
 // console.log(x, y)

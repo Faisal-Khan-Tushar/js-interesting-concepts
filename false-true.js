@@ -15,9 +15,9 @@ empty array[]
 empty object
 
 */
-let x = parseInt('Faisal Khan Tushar');
-console.log('value of variable x is', x);
-if (x) {
+let first = parseInt('Faisal Khan Tushar');
+console.log('value of variable x is', first);
+if (first) {
   console.log('variable is truthy')
 }
 else {

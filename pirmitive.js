@@ -21,10 +21,10 @@ a = 20;
 // console.log(a, b)
 
 //non pirmitive-> objects
-let x = { job: 'website developer' }
-let y = x;
-console.log(x, y)
-x.job = 'font end developer'
+let first = { job: 'website developer' }
+let y = first;
+console.log(first, y)
+first.job = 'font end developer'
 // console.log(x, y)
 y.job = 'back end developer'
-console.log(x, y);
+console.log(first, y);
